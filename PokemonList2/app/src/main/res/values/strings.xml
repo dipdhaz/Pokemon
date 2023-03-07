@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PokemonList</string>
+    <string name="pokemon_name">Nama Pokemon</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>charizard</item>
+        <item>bulbasaur</item>
+        <item>pikachu</item>
+        <item>squirltle</item>
+    </string-array>
+    <string-array name="data_description">
+        <item> Charizard adalah salah satu Pokémon generasi pertama yang berasal dari tipe api/terbang. Dia memiliki tubuh besar dengan sayap yang kuat dan ekor panjang berapi-api. Warna tubuhnya adalah oranye dengan perut kuning dan sayap hitam. Charizard memiliki gigi tajam dan taring yang dapat melukai lawannya. Dia juga memiliki kemampuan mengeluarkan napas api yang sangat panas dan kuat. Charizard terkenal sebagai salah satu Pokémon paling kuat dan populer di seluruh dunia Pokémon. Dia sangat tangguh dalam pertarungan dan sering dijadikan sebagai salah satu pilihan terbaik dalam pertarungan Pokémon. </item>
+        <item> Bulbasaur adalah Pokémon tipe rumput/venom yang memiliki penampilan mirip dengan katak atau dinosaurus kecil. Dia memiliki tubuh kecil dengan kulit hijau kekuningan dan bintik-bintik ungu gelap di punggungnya. Bulbasaur memiliki sebuah bunga yang tumbuh di punggungnya yang disebut "Bulb". Bunga ini dapat melepaskan spora yang dapat menyebabkan lawannya terkena racun. Bulbasaur adalah salah satu Pokemon awal yang bisa didapatkan di game Pokemon dan menjadi salah satu Pokemon favorit karena mudah ditemukan dan memiliki kemampuan yang cukup berguna dalam pertarungan. Bulbasaur dapat memanfaatkan energi surya melalui bunga di punggungnya untuk mengisi tenaganya. Dia juga memiliki berbagai gerakan serangan yang kuat seperti Tackle, Vine Whip, dan Sleep Powder.</item>
+        <item>Pikachu adalah Pokémon tipe listrik yang sangat populer di seluruh dunia Pokémon. Dia memiliki penampilan yang menggemaskan dengan warna kuning terang dan telinga berbentuk segitiga. Pikachu memiliki pipi yang berkedut-kedut yang menghasilkan listrik yang kuat ketika dia merasa senang atau terstimulasi. Pikachu juga memiliki ekor panjang yang berujung seperti petir. Dia dapat mengeluarkan serangan listrik yang sangat kuat seperti Thunderbolt, Volt Tackle, dan Thunder Wave. Pikachu juga terkenal sebagai teman dekat dari pelatih Pokemon Ash Ketchum dan sering muncul di anime dan manga Pokemon. Karena sifatnya yang lucu dan menggemaskan, Pikachu telah menjadi simbol dari waralaba Pokemon dan menjadi salah satu Pokemon yang paling dikenal di seluruh dunia.</item>
+        <item>Squirtle adalah salah satu pokemon tipe air yang memiliki bentuk mirip dengan kura-kura. Ia memiliki kulit berwarna biru dengan perut yang berwarna keputihan, serta memiliki cangkang keras yang menutupi tubuhnya kecuali bagian perutnya. Matanya besar dengan iris berwarna hitam dan putih, dan ia memiliki ekor yang pendek dengan ujung berbentuk bulat.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/charizard</item>
+        <item>@drawable/bulbasaur</item>
+        <item>@drawable/pikachu</item>
+        <item>@drawable/squirltle</item>
+
+    </integer-array>
+</resources>
